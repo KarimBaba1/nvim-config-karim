@@ -40,4 +40,5 @@ require('lazy').setup {
   require 'plugins.alpha',
   require 'plugins.lualine',
   require 'plugins.indent-blankline',
+  require 'plugins.misc',
 }
