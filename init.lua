@@ -33,6 +33,9 @@ require('lazy').setup({
     require 'plugins.neotree',
     require 'plugins.bufferline',
     require 'plugins.colortheme',
+    require 'plugins.treesitter',
+    require 'plugins.telescope',
+    require 'plugins.lsp',
     require 'plugins.lualine'
 
 })

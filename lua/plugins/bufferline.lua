@@ -46,8 +46,9 @@ return {
           fg = '#434C5E',
         },
         buffer_selected = {
-          bold = true,
-          italic = false,
+            fg = '#30D5C8',
+            bold = true,
+            italic = false,
         },
         -- separator_selected = {},
         -- tab_selected = {},
